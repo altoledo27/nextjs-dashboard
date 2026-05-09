@@ -1,0 +1,4 @@
+allowBuilds:
+  '@pnpm/exe': true
+  bcrypt: true
+  sharp: true
